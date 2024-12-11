@@ -216,6 +216,10 @@
         a {
           margin-left: 0;
          color: $masthead-title-link-color;
+           
+           &:hover {
+      color: $masthead-title-link-color-hover;
+    }
         }
       }
 
