@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Michael Yonker"
 author_profile: true
 redirect_from: 
   - /about/
